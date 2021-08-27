@@ -1,0 +1,16 @@
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Saida via console\Quinto programa\Musica\obj\Debug\net5.0\Musica.csproj.AssemblyReference.cache
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Saida via console\Quinto programa\Musica\obj\Debug\net5.0\Musica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Saida via console\Quinto programa\Musica\obj\Debug\net5.0\Musica.AssemblyInfoInputs.cache
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Saida via console\Quinto programa\Musica\obj\Debug\net5.0\Musica.AssemblyInfo.cs
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Saida via console\Quinto programa\Musica\obj\Debug\net5.0\Musica.csproj.CoreCompileInputs.cache
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Saida via console\Quinto programa\Musica\bin\Debug\net5.0\Musica.exe
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Saida via console\Quinto programa\Musica\bin\Debug\net5.0\Musica.deps.json
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Saida via console\Quinto programa\Musica\bin\Debug\net5.0\Musica.runtimeconfig.json
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Saida via console\Quinto programa\Musica\bin\Debug\net5.0\Musica.runtimeconfig.dev.json
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Saida via console\Quinto programa\Musica\bin\Debug\net5.0\Musica.dll
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Saida via console\Quinto programa\Musica\bin\Debug\net5.0\ref\Musica.dll
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Saida via console\Quinto programa\Musica\bin\Debug\net5.0\Musica.pdb
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Saida via console\Quinto programa\Musica\obj\Debug\net5.0\Musica.dll
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Saida via console\Quinto programa\Musica\obj\Debug\net5.0\ref\Musica.dll
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Saida via console\Quinto programa\Musica\obj\Debug\net5.0\Musica.pdb
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Trabalho\Saida via console\Quinto programa\Musica\obj\Debug\net5.0\Musica.genruntimeconfig.cache
