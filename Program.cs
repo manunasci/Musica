@@ -146,6 +146,8 @@ namespace Musica
             Console.WriteLine("(Mosty)");
             Console.WriteLine("Tiempo pa' olvidar");
             Console.WriteLine("Desde Cádiz para el mundo");
+
+            Console.ResetColor();
         }
     }
 }
